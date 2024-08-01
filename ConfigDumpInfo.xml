@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="b3548b6e-c8a5-44c9-8cb6-166a7e7bdbb9" configVersion="b3ffa68b503535498244acc1d43e42ab747dcd8a">
+			<Metadata name="Catalog.Номенклатура.Attribute.ФайлКартинки" id="35089d9e-f5a7-459c-b76a-222c2a3a1feb"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ДатаСоздания" id="bf819bb0-20a4-40d8-b3ae-ba100315614d"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаГруппы" id="6336a837-4942-49be-a2c9-2be2b6b83714" configVersion="c463493203403f6d7e4dd441ca0665c3e6a1df87"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаГруппы.Form" id="6336a837-4942-49be-a2c9-2be2b6b83714.0" configVersion="ffae954c1600d86c17b203d1d30f6bd199aae344"/>
+		<Metadata name="Catalog.Номенклатура.ManagerModule" id="b3548b6e-c8a5-44c9-8cb6-166a7e7bdbb9.3" configVersion="e7401374b6f7e39829cae1e56170bf09a234999a"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="b3548b6e-c8a5-44c9-8cb6-166a7e7bdbb9.0" configVersion="15739eacd851595f091c64fa98fe914189a13477"/>
+		<Metadata name="Catalog.Номенклатура.Template.А_Новинка_ПФ_MXL_КарточкаНоменклатуры" id="94f85748-e6e4-4700-8b22-b51b5ba7595e" configVersion="b5e5601320270c34010073b21af24bb50cd1f9b9"/>
+		<Metadata name="Catalog.Номенклатура.Template.А_Новинка_ПФ_MXL_КарточкаНоменклатуры.Template" id="94f85748-e6e4-4700-8b22-b51b5ba7595e.0" configVersion="ec341ff9f1ff68a8afe353e8e1b3585ce8aa982d"/>
+		<Metadata name="Catalog.НоменклатураПрисоединенныеФайлы" id="ee1d5f0c-a534-4bb2-9135-3bfe77a02706" configVersion="ec12d3e614e40639ad74af780f74cca91cf26ae3"/>
+		<Metadata name="CommonPicture.Внимание16" id="dba4c8f0-ef84-4fef-a095-b8e309af60c6" configVersion="08d9cdac91bca0e6f8f3efe8c8fb21bcb97a5799"/>
+		<Metadata name="CommonPicture.ЗаполнитьПоШаблону" id="f92f91af-2e14-4f06-bbd4-8c84cd4c1a04" configVersion="b31010b209a0227d5c10af6387a8b959cad0a1d8"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="143f136b-ddb1-48a9-91a1-9004b007a1a9" configVersion="3e25f9681151198f8074845ddb8e7c4977503bb0"/>
+		<Metadata name="CommonPicture.Номенклатура" id="d762f4a7-1bd4-4e93-9d11-01684054b166" configVersion="37de8551fd2c749518d8ad43e3efb382ddfd7d23"/>
+		<Metadata name="CommonPicture.Органайзер" id="f032f5dd-64e1-4a79-9b4a-c08b9eb459fe" configVersion="53c4e9986404f243805140dc82e042cc90b00cc3"/>
+		<Metadata name="CommonPicture.Отчеты" id="b6f977f8-d317-4630-b38e-dfc06c41449b" configVersion="3c493e48a2172e1a244822cb8689904866c537a9"/>
+		<Metadata name="CommonPicture.ПрочиеПользовательскиеНастройки" id="da3ba9af-20a8-4721-b8e0-5308a0a764d3" configVersion="cc1828158917a4c52400a63b7272477b5e520ee0"/>
+		<Metadata name="CommonPicture.ФильтрПоСвойствам" id="b3d3001e-39ad-4bc9-ac5d-92d80a9c44eb" configVersion="4ea394321bedc4c6b32a0a4d323a0597fe609667"/>
+		<Metadata name="Configuration.Аватон" id="79c137d6-eb3c-4226-9387-a62d62f3f22d" configVersion="b668bcb7774238e5bea9953df3c8e06e1c99ca96"/>
+		<Metadata name="Language.Русский" id="fb27978a-6082-4339-801b-e9507e998da0" configVersion="2e8d8559b4f75f61d9e83e5b10e02e0b16612c9b"/>
+		<Metadata name="Role.А_ОсновнаяРоль" id="33b076c3-75d8-402f-b121-7529c14b095b" configVersion="31f315102419a3e5dcfec680b77584c5b69dc521"/>
+		<Metadata name="StyleItem.ГиперссылкаЦвет" id="3d0b1cd7-fc0b-4d45-b425-05e2857504e8" configVersion="4edb33bafa52304506a72f1efdf56a390cbba364"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="f9fcc11b-8c5b-426d-8452-9e465327e34f" configVersion="1071db2823f8677f2330d79eb7f2a3cac814fb32"/>
+		<Metadata name="StyleItem.ТекстИнформационнойНадписи" id="dcb87ff6-d61f-4fc4-94dd-08cd81eb1bca" configVersion="7879b4749bfb6c1f38780405b2fbe1c923fd7ac4"/>
+		<Metadata name="StyleItem.ЦветТекстаНевыбраннойКартинки" id="274cc022-9aa1-4328-8dea-fbd31e9e3847" configVersion="ce40dceebe4ffdbb379803894f85e8d68c1fb6f1"/>
+		<Metadata name="StyleItem.ЦветФонаВыделения" id="2791a754-c08a-409f-9ad2-5db78a311440" configVersion="8ac0ef82bc95e77f10f7ed9f4d622b62ee90497c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
