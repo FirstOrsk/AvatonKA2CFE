@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.А_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>1 ДатаСозд в Номен, Новинка</Version>
+			<Version>2 Нмн.ЕдиницаМинПродаж</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -79,8 +79,47 @@
 			<CommonPicture>ПрочиеПользовательскиеНастройки</CommonPicture>
 			<CommonPicture>Номенклатура</CommonPicture>
 			<Role>А_ОсновнаяРоль</Role>
+			<DefinedType>GTIN</DefinedType>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>НоменклатураПрисоединенныеФайлы</Catalog>
+			<Catalog>КлассификаторВидовЭкономическойДеятельности</Catalog>
+			<Catalog>ВидыНоменклатуры</Catalog>
+			<Catalog>ГруппыФинансовогоУчетаНоменклатуры</Catalog>
+			<Catalog>КлассификаторОКВЭД2</Catalog>
+			<Catalog>КоллекцииНоменклатуры</Catalog>
+			<Catalog>ОбщероссийскийКлассификаторПродукции</Catalog>
+			<Catalog>КлассификаторТНВЭД</Catalog>
+			<Catalog>Производители</Catalog>
+			<Catalog>ДрагоценныеМатериалы</Catalog>
+			<Catalog>ШаблоныЭтикетокИЦенников</Catalog>
+			<Catalog>КлассификаторОКПД2</Catalog>
+			<Catalog>ЦеновыеГруппы</Catalog>
+			<Catalog>ТоварныеКатегории</Catalog>
+			<Catalog>РейтингиПродажНоменклатуры</Catalog>
+			<Catalog>ХарактеристикиНоменклатуры</Catalog>
+			<Catalog>УпаковкиЕдиницыИзмерения</Catalog>
+			<Catalog>СхемыОбеспечения</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>СтраныМира</Catalog>
+			<Catalog>Марки</Catalog>
+			<Catalog>СтавкиНДС</Catalog>
+			<Catalog>СезонныеГруппы</Catalog>
+			<Catalog>СпособыОбеспеченияПотребностей</Catalog>
+			<Catalog>ГруппыДоступаНоменклатуры</Catalog>
+			<Catalog>НаборыУпаковок</Catalog>
+			<Catalog>СкладскиеГруппыНоменклатуры</Catalog>
+			<Catalog>ГруппыАналитическогоУчетаНоменклатуры</Catalog>
+			<Catalog>КодыОперацийРаздела7ДекларацииПоНДС</Catalog>
+			<Catalog>ВидыАлкогольнойПродукции</Catalog>
+			<Enum>ЕдиницыИзмеренияВремени</Enum>
+			<Enum>ВариантыОформленияПродажи</Enum>
+			<Enum>ВариантыИспользованияХарактеристикНоменклатуры</Enum>
+			<Enum>ТипыНоменклатуры</Enum>
+			<Enum>РазмерыКиЗГИСМ</Enum>
+			<Enum>ГрадацииКачества</Enum>
+			<Enum>ВидыКиЗГИСМ</Enum>
+			<Enum>СпособыВыпускаВОборотГИСМ</Enum>
+			<Enum>РасположениеДрагоценныхКамней</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

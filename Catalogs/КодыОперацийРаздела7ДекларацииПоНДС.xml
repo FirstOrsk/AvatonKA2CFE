@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="1fef7993-c783-443b-890d-436220f668d3">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КодыОперацийРаздела7ДекларацииПоНДС" category="Object">
+				<xr:TypeId>d7102f71-4714-46b2-9108-65211f0bdd9e</xr:TypeId>
+				<xr:ValueId>596fe70c-846b-4eea-b9eb-22c9c7f12818</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КодыОперацийРаздела7ДекларацииПоНДС" category="Ref">
+				<xr:TypeId>3831f254-30fa-44a1-a83b-a4fc2ec22c53</xr:TypeId>
+				<xr:ValueId>33103f81-921b-4724-befb-4339df0eb3c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КодыОперацийРаздела7ДекларацииПоНДС" category="Selection">
+				<xr:TypeId>55d6969a-ef40-4fc2-a72e-a26a2437c90d</xr:TypeId>
+				<xr:ValueId>e92a0013-eb0e-4450-86d4-39b5dcc7458d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КодыОперацийРаздела7ДекларацииПоНДС" category="List">
+				<xr:TypeId>e6ea9b66-86cf-435e-90af-5102a11c913f</xr:TypeId>
+				<xr:ValueId>7ff468e8-624b-4971-a511-079da420873a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КодыОперацийРаздела7ДекларацииПоНДС" category="Manager">
+				<xr:TypeId>247c03a9-87b8-4d8d-af63-b6fc166336f1</xr:TypeId>
+				<xr:ValueId>7c858d2c-8013-4ce2-b2a4-12f30f25d248</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КодыОперацийРаздела7ДекларацииПоНДС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1f83386b-ff3c-436e-afbf-41068ff99e69</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
