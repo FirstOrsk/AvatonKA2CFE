@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.А_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>2 Нмн.ЕдиницаМинПродаж</Version>
+			<Version>3 СртНмн.ФрмЭл</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -78,6 +78,7 @@
 			<CommonPicture>Органайзер</CommonPicture>
 			<CommonPicture>ПрочиеПользовательскиеНастройки</CommonPicture>
 			<CommonPicture>Номенклатура</CommonPicture>
+			<CommonPicture>ВыпадающийСписок</CommonPicture>
 			<Role>А_ОсновнаяРоль</Role>
 			<DefinedType>GTIN</DefinedType>
 			<Catalog>Номенклатура</Catalog>
@@ -111,6 +112,7 @@
 			<Catalog>ГруппыАналитическогоУчетаНоменклатуры</Catalog>
 			<Catalog>КодыОперацийРаздела7ДекларацииПоНДС</Catalog>
 			<Catalog>ВидыАлкогольнойПродукции</Catalog>
+			<Catalog>СертификатыНоменклатуры</Catalog>
 			<Enum>ЕдиницыИзмеренияВремени</Enum>
 			<Enum>ВариантыОформленияПродажи</Enum>
 			<Enum>ВариантыИспользованияХарактеристикНоменклатуры</Enum>
@@ -120,6 +122,7 @@
 			<Enum>ВидыКиЗГИСМ</Enum>
 			<Enum>СпособыВыпускаВОборотГИСМ</Enum>
 			<Enum>РасположениеДрагоценныхКамней</Enum>
+			<Enum>СтатусыСертификатовНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -121,6 +121,19 @@
 		<Metadata name="Catalog.Производители" id="cb81afd6-4959-47e5-b559-f7a7aab8f0a8" configVersion="5439fee1038409613517073cf57310f8995857da"/>
 		<Metadata name="Catalog.РейтингиПродажНоменклатуры" id="c203c726-4315-4c84-a3aa-5f3fb2bb5ac4" configVersion="9a1e389f1102c6c4d165878e7f56580500dfdc86"/>
 		<Metadata name="Catalog.СезонныеГруппы" id="08789a28-be7a-4ec3-a2e0-2b23ba325606" configVersion="32aed8c36494e57306f5622889e6358bec6f3323"/>
+		<Metadata name="Catalog.СертификатыНоменклатуры" id="8c5b07f9-bd81-46f4-a0f5-f1ed24c01f48" configVersion="d5ecfa93a1a242ed32ea22e3407794305c43bb37">
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.ПредставлениеСертификата" id="0069896f-3a40-4980-b445-551f91ab9527"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.ДатаОкончанияСрокаДействия" id="10a49c9c-b327-4698-bdae-127ecd637b68"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.Статус" id="28a736b4-67c8-48c4-a861-3f4ff6e68b02"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.Описание" id="4aa28931-3456-40b5-8b5f-7c9dddcd2945"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.Бессрочный" id="85c18c30-ccf5-4023-b8d6-384efd05a4ff"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.ОрганВыдавшийДокумент" id="db33739f-3aa5-4d6b-8ed8-d3e983da40fc"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.Номер" id="db978c59-8aad-43e7-94ef-62692840540f"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.ДатаНачалаСрокаДействия" id="e3e57f12-c6ee-4b12-bb2d-b257c5d95ca9"/>
+			<Metadata name="Catalog.СертификатыНоменклатуры.Attribute.ТипСертификата" id="fa1fc083-f9fd-41d8-967f-d276b984c9dd"/>
+		</Metadata>
+		<Metadata name="Catalog.СертификатыНоменклатуры.Form.ФормаЭлемента" id="8219605a-93f1-4195-86b2-628b70db7456" configVersion="904a56d215d63927345827d7e8df55b7a2f0a2d1"/>
+		<Metadata name="Catalog.СертификатыНоменклатуры.Form.ФормаЭлемента.Form" id="8219605a-93f1-4195-86b2-628b70db7456.0" configVersion="6cdab92e9370c336b5e0337c2b41c1d3d6886905"/>
 		<Metadata name="Catalog.СкладскиеГруппыНоменклатуры" id="eba97ad4-ce63-447b-8c0a-eedbad37ec9c" configVersion="5e9a26462007b1675209990421ade654ee5dc82e"/>
 		<Metadata name="Catalog.СпособыОбеспеченияПотребностей" id="faff1d61-1437-4ed1-95b4-3f931eb1d2dd" configVersion="38aeb5781548d7c338214226b9e6699c863c6c00"/>
 		<Metadata name="Catalog.СтавкиНДС" id="dec1f258-9e4e-4ce2-a72f-4d2f95ef00d0" configVersion="eb98fc6b76c63dbb2c3a243776b398b0d54d8155"/>
@@ -132,6 +145,7 @@
 		<Metadata name="Catalog.ЦеновыеГруппы" id="e18fc343-8973-4eee-ba6b-10abd910a48b" configVersion="f0a0d97020333fb43030db2ac14f11bd726dd1c0"/>
 		<Metadata name="Catalog.ШаблоныЭтикетокИЦенников" id="8dd3e6d6-8b31-4eae-81c0-14c8bf5d6887" configVersion="869d94dbeb03aca952be000136e2f6721aa00b22"/>
 		<Metadata name="CommonPicture.Внимание16" id="dba4c8f0-ef84-4fef-a095-b8e309af60c6" configVersion="08d9cdac91bca0e6f8f3efe8c8fb21bcb97a5799"/>
+		<Metadata name="CommonPicture.ВыпадающийСписок" id="7c8f8ebb-ca46-4968-aae0-baecafeff015" configVersion="556f96d5883fcf12f65fa7a1690dcb6d1933d903"/>
 		<Metadata name="CommonPicture.ЗаполнитьПоШаблону" id="f92f91af-2e14-4f06-bbd4-8c84cd4c1a04" configVersion="b31010b209a0227d5c10af6387a8b959cad0a1d8"/>
 		<Metadata name="CommonPicture.ЗаполнитьФорму" id="143f136b-ddb1-48a9-91a1-9004b007a1a9" configVersion="3e25f9681151198f8074845ddb8e7c4977503bb0"/>
 		<Metadata name="CommonPicture.Номенклатура" id="d762f4a7-1bd4-4e93-9d11-01684054b166" configVersion="37de8551fd2c749518d8ad43e3efb382ddfd7d23"/>
@@ -139,7 +153,7 @@
 		<Metadata name="CommonPicture.Отчеты" id="b6f977f8-d317-4630-b38e-dfc06c41449b" configVersion="3c493e48a2172e1a244822cb8689904866c537a9"/>
 		<Metadata name="CommonPicture.ПрочиеПользовательскиеНастройки" id="da3ba9af-20a8-4721-b8e0-5308a0a764d3" configVersion="cc1828158917a4c52400a63b7272477b5e520ee0"/>
 		<Metadata name="CommonPicture.ФильтрПоСвойствам" id="b3d3001e-39ad-4bc9-ac5d-92d80a9c44eb" configVersion="4ea394321bedc4c6b32a0a4d323a0597fe609667"/>
-		<Metadata name="Configuration.Аватон" id="79c137d6-eb3c-4226-9387-a62d62f3f22d" configVersion="28b3d061e723c64764caadaa63c0edfeabb2fb60"/>
+		<Metadata name="Configuration.Аватон" id="79c137d6-eb3c-4226-9387-a62d62f3f22d" configVersion="2f7f2c611a72a0b089135742d0eed1f0a990b59c"/>
 		<Metadata name="DefinedType.GTIN" id="58235d24-10b1-4caf-b6e0-f228212c5e3a" configVersion="1149d099b0a389675d431c31dafee6edc0334d1d"/>
 		<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры" id="09447dc2-8ac8-4fd3-a7ea-574cce785c65" configVersion="fcdf084b182fa8e793c69cc3d419899bcfc428b6"/>
 		<Metadata name="Enum.ВариантыОформленияПродажи" id="b913e5bc-c7dc-4654-a712-8d113c0a1d87" configVersion="7a6bfb425a96f4286f74452bd9969f538ce81db9"/>
@@ -149,7 +163,10 @@
 		<Metadata name="Enum.РазмерыКиЗГИСМ" id="1bfc5890-9609-4276-8cdb-dd973787cba4" configVersion="22ce08b58840e788659a3194ef2e65cea03e5f48"/>
 		<Metadata name="Enum.РасположениеДрагоценныхКамней" id="98ea04ca-d463-4c80-8c2d-e40936851579" configVersion="432dc4c727c1f1dfe7c7ef7902e05d02ce3d3c75"/>
 		<Metadata name="Enum.СпособыВыпускаВОборотГИСМ" id="3a8efdd7-725e-431e-8034-4866f2026867" configVersion="c9535bc383feaf9604d7e93b147d72e3340b107e"/>
-		<Metadata name="Enum.ТипыНоменклатуры" id="2adfdbb8-bae1-4bf3-b2c9-f626bda3f1cd" configVersion="3f3b3a75135848fbf5d84a08744cb5f072d43cef"/>
+		<Metadata name="Enum.СтатусыСертификатовНоменклатуры" id="372b96d2-c6ad-4459-8999-91539e7cd2e2" configVersion="fc89fbac1a449936acc39bd74537e6c797324c67"/>
+		<Metadata name="Enum.ТипыНоменклатуры" id="2adfdbb8-bae1-4bf3-b2c9-f626bda3f1cd" configVersion="54bae7b03b4d3514ec9dc882058db2c4d44c96f6">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="78442dc7-8bfb-438c-a571-48af416ddd7e"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="fb27978a-6082-4339-801b-e9507e998da0" configVersion="2e8d8559b4f75f61d9e83e5b10e02e0b16612c9b"/>
 		<Metadata name="Role.А_ОсновнаяРоль" id="33b076c3-75d8-402f-b121-7529c14b095b" configVersion="31f315102419a3e5dcfec680b77584c5b69dc521"/>
 		<Metadata name="StyleItem.ГиперссылкаЦвет" id="3d0b1cd7-fc0b-4d45-b425-05e2857504e8" configVersion="4edb33bafa52304506a72f1efdf56a390cbba364"/>

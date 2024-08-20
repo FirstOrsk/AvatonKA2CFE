@@ -21,6 +21,16 @@
 			<Comment/>
 			<ExtendedConfigurationObject>951a5403-e1a4-4484-8fda-c18df8f291d3</ExtendedConfigurationObject>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<EnumValue uuid="78442dc7-8bfb-438c-a571-48af416ddd7e">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Товар</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>57507687-e857-4627-84a6-131b6dc5555a</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
 	</Enum>
 </MetaDataObject>
