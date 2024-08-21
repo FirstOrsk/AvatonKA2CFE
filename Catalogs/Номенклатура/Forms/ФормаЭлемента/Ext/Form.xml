@@ -622,22 +622,18 @@
 													<ContextMenu name="НастройкаВидимостиФормыКонтекстноеМеню" id="1160"/>
 													<ExtendedTooltip name="НастройкаВидимостиФормыРасширеннаяПодсказка" id="1161"/>
 												</RadioButtonField>
+												<InputField name="Штрихкод" id="1118">
+													<Visible>false</Visible>
+													<AutoMaxWidth>false</AutoMaxWidth>
+													<MaxWidth>10</MaxWidth>
+													<HorizontalStretch>false</HorizontalStretch>
+													<ExtendedEdit>true</ExtendedEdit>
+													<BackColor>style:ЦветФонаВыделения</BackColor>
+													<ContextMenu name="ШтрихкодКонтекстноеМеню" id="1119"/>
+													<ExtendedTooltip name="ШтрихкодРасширеннаяПодсказка" id="1120"/>
+												</InputField>
 											</ChildItems>
 										</UsualGroup>
-										<InputField name="Штрихкод" id="1118">
-											<Visible>false</Visible>
-											<Title>
-												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Штрихкод</v8:content>
-												</v8:item>
-											</Title>
-											<HorizontalStretch>false</HorizontalStretch>
-											<ExtendedEdit>true</ExtendedEdit>
-											<BackColor>style:ЦветФонаВыделения</BackColor>
-											<ContextMenu name="ШтрихкодКонтекстноеМеню" id="1119"/>
-											<ExtendedTooltip name="ШтрихкодРасширеннаяПодсказка" id="1120"/>
-										</InputField>
 										<UsualGroup name="ГруппаРаботаСНоменклатурой" id="1496">
 											<Title>
 												<v8:item>
@@ -812,6 +808,18 @@
 													<ContextMenu name="ГиперссылкаПерейтиШтрихкодыНоменклатурыКонтекстноеМеню" id="1175"/>
 													<ExtendedTooltip name="ГиперссылкаПерейтиШтрихкодыНоменклатурыРасширеннаяПодсказка" id="1176"/>
 												</LabelDecoration>
+												<InputField name="Штрихкод1" id="1556">
+													<DataPath>Объект.Штрихкод</DataPath>
+													<Title>
+														<v8:item>
+															<v8:lang>ru</v8:lang>
+															<v8:content>Заводской штрихкод</v8:content>
+														</v8:item>
+													</Title>
+													<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+													<ContextMenu name="Штрихкод1КонтекстноеМеню" id="1557"/>
+													<ExtendedTooltip name="Штрихкод1РасширеннаяПодсказка" id="1558"/>
+												</InputField>
 											</ChildItems>
 										</UsualGroup>
 									</ChildItems>

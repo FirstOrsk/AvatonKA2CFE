@@ -1094,6 +1094,22 @@
 					</Type>
 				</Properties>
 			</Attribute>
+			<Attribute uuid="651f05ea-7e70-4295-9d7a-eb960d038cee">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Штрихкод</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>325e36f1-dd7a-47a9-8e70-191405c47bc5</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>200</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
 			<TabularSection uuid="12bb93e7-d017-491c-9d53-46496305cefd">
 				<InternalInfo>
 					<xr:GeneratedType name="CatalogTabularSection.Номенклатура.ДрагоценныеМатериалы" category="TabularSection">
